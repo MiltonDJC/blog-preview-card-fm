@@ -45,8 +45,9 @@ body {
 main {
     background-color: hsl(0, 0%, 100%);
     padding: 1rem 1rem .8rem;
-    width: 60vw;
-    max-width: 1440px;
+    width: 14rem;
+    max-width: 375px;
+    max-height: 812px;
     border-radius: 15px;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
@@ -82,7 +83,7 @@ main {
     font-size: .7rem;
     background-color: hsl(47, 88%, 63%);
     width: fit-content;
-    margin-block: 1rem;
+    margin-block: 1rem .8rem;
     padding: .3rem .7rem;
     border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -91,7 +92,12 @@ main {
     -o-border-radius: 3px;
 }
 
-/* .publish-date {} */
+.publish-date {
+    font-size: .7rem;
+    margin: 0;
+    font-family: "Figtree", serif;
+    font-style: italic;
+}
 
 /* .title {} */
 
@@ -126,3 +132,8 @@ main {
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+/* Todo: 
+* Agregar fuente en published date
+* Controla el tamaño para que se mantenga igual de 375px hasta 1440px 
+Todo */
