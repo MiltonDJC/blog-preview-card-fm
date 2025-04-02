@@ -110,6 +110,7 @@ main {
     display: flex;
     align-items: center;
     font-family: "Figtree", serif;
+    font-weight: 800;
     font-size: .7rem;
 }
 
