@@ -99,8 +99,6 @@ main {
     font-style: italic;
 }
 
-/* .title {} */
-
 .description {
     font-size: .7rem;
     font-family: "Figtree", serif;
@@ -123,17 +121,10 @@ main {
 .attribution {
     font-size: 11px;
     text-align: center;
-    /* cambiar esto para que aparezca */
     position: absolute;
-    display: none;
-    /* ------------------------------ */
+    top: 90vh;
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
-
-/* Todo: 
-* Agregar fuente en published date
-* Controla el tamaño para que se mantenga igual de 375px hasta 1440px 
-Todo */
