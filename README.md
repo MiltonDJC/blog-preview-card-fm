@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-xTEmDKnpfl)
 - Live Site URL: [Live site URL here](https://miltondjc.github.io/blog-preview-card-fm/)
 
 ## My process
